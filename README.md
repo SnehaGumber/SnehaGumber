@@ -17,10 +17,12 @@
 ```yaml
 Name        : Sneha Gumber
 Degree      : BE Computer Science Engineering (2nd Year)
-College     : Chitkara University, Rajpura
+College     : Chitkara University, Punjab
 Focus       : Full Stack Development + AI/ML Exploration
+Languages   : C, C++, Java, JavaScript, SQL
 Interest    : Web Dev, Artificial Intelligence, Machine Learning
-Goal        : Strong Placement & Internship 🎯
+Email       : snehagumber19507@gmail.com
+Goal        : Strong Placement 2027
 Status      : Open to Internships & Collaborations ✅
 ```
 
