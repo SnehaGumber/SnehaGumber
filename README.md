@@ -61,12 +61,12 @@ Status      : Open to Internships & Collaborations ✅
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sneha507952&show_icons=true&theme=tokyonight&border_color=2DD4BF&title_color=2DD4BF&icon_color=2DD4BF" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sneha507952&theme=tokyonight&border=2DD4BF&ring=2DD4BF&fire=14B8A6&currStreakLabel=2DD4BF" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SnehaGumber&show_icons=true&theme=tokyonight&border_color=2DD4BF&title_color=2DD4BF&icon_color=2DD4BF" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SnehaGumber&theme=tokyonight&border=2DD4BF&ring=2DD4BF&fire=14B8A6&currStreakLabel=2DD4BF" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha507952&layout=compact&theme=tokyonight&border_color=2DD4BF&title_color=2DD4BF" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaGumber&layout=compact&theme=tokyonight&border_color=2DD4BF&title_color=2DD4BF" height="150"/>
 </div>
 
 ---
@@ -77,7 +77,7 @@ Status      : Open to Internships & Collaborations ✅
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sneha507952)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SnehaGumber)
 
 </div>
 
