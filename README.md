@@ -66,12 +66,12 @@ Status      : Open to Internships & Collaborations ✅
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SnehaGumber&show_icons=true&theme=tokyonight&border_color=7B6FC4&title_color=7B6FC4&icon_color=7B6FC4&hide_border=false" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SnehaGumber&theme=tokyonight&border=7B6FC4&ring=7B6FC4&fire=9B8EC4&currStreakLabel=7B6FC4" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SnehaGumber&show_icons=true&theme=tokyonight&border_color=2DD4BF&title_color=2DD4BF&icon_color=2DD4BF" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SnehaGumber&theme=tokyonight&border=2DD4BF&ring=2DD4BF&fire=14B8A6&currStreakLabel=2DD4BF" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaGumber&layout=compact&theme=tokyonight&border_color=7B6FC4&title_color=7B6FC4" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaGumber&layout=compact&theme=tokyonight&border_color=2DD4BF&title_color=2DD4BF" height="150"/>
 </div>
 
 ---
