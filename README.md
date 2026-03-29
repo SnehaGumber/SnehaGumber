@@ -1,6 +1,6 @@
 <!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=607B8B&height=200&section=header&text=Sneha%20Gumber&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3D5263&height=200&section=header&text=Sneha%20Gumber&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <!-- Typing animation -->
@@ -96,5 +96,5 @@ Status      : Open to Internships & Collaborations ✅
 
 <!-- Footer wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=607B8B&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3D5263&height=100&section=footer" width="100%"/>
 </div>
