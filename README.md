@@ -5,12 +5,12 @@
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&multiline=false&width=650&lines=Full+Stack+Dev+%7C+MERN+%7C+React+%7C+Node.js;BE+CSE+%40+Chitkara+University%2C+Rajpura;Exploring+AI+%2B+Web+Integration;Building+Impactful+Web+Applications;Open+to+Internships+%26+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00897B&center=true&vCenter=true&multiline=false&width=650&lines=Full+Stack+Dev+%7C+MERN+%7C+React+%7C+Node.js;BE+CSE+%40+Chitkara+University%2C+Rajpura;Exploring+AI+%2B+Web+Integration;Building+Impactful+Web+Applications;Open+to+Internships+%26+Opportunities" alt="Typing SVG" />
 
   <br/>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=SnehaGumber&label=Profile+Views&color=2DD4BF&style=flat)
-  [![GitHub followers](https://img.shields.io/github/followers/SnehaGumber?label=Followers&style=flat&color=2DD4BF)](https://github.com/SnehaGumber)
+  ![Profile Views](https://komarev.com/ghpvc/?username=SnehaGumber&label=Profile+Views&color=00897B&style=flat)
+  [![GitHub followers](https://img.shields.io/github/followers/SnehaGumber?label=Followers&style=flat&color=00897B)](https://github.com/SnehaGumber)
 </div>
 
 <br/>
