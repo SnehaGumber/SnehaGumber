@@ -1,11 +1,11 @@
 <!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B0A8D9&height=200&section=header&text=Sneha%20Gumber&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=607B8B&height=200&section=header&text=Sneha%20Gumber&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=555555&center=true&vCenter=true&multiline=false&width=650&lines=Full+Stack+Dev+%7C+MERN+%7C+React+%7C+Node.js;BE+CSE+%40+Chitkara+University%2C+Rajpura;Exploring+AI+%2B+Web+Integration;Building+Impactful+Web+Applications;Open+to+Internships+%26+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&multiline=false&width=650&lines=Full+Stack+Dev+%7C+MERN+%7C+React+%7C+Node.js;BE+CSE+%40+Chitkara+University%2C+Rajpura;Exploring+AI+%2B+Web+Integration;Building+Impactful+Web+Applications;Open+to+Internships+%26+Opportunities" alt="Typing SVG" />
 
   <br/>
 
@@ -96,5 +96,5 @@ Status      : Open to Internships & Collaborations ✅
 
 <!-- Footer wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B0A8D9&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=607B8B&height=100&section=footer" width="100%"/>
 </div>
