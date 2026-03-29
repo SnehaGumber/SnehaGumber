@@ -1,11 +1,11 @@
 <!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sneha%20Gumber&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Sneha%20Gumber&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&multiline=false&width=650&lines=Full+Stack+Dev+%7C+MERN+%7C+React+%7C+Node.js;BE+CSE+%40+Chitkara+University%2C+Punjab;Exploring+AI+%2B+Web+Integration;Building+Impactful+Web+Applications;Open+to+Internships+%26+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&multiline=false&width=650&lines=Full+Stack+Dev+%7C+MERN+%7C+React+%7C+Node.js;BE+CSE+%40+Chitkara+University%2C+Rajpura;Exploring+AI+%2B+Web+Integration;Building+Impactful+Web+Applications;Open+to+Internships+%26+Opportunities" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -17,12 +17,10 @@
 ```yaml
 Name        : Sneha Gumber
 Degree      : BE Computer Science Engineering (2nd Year)
-College     : Chitkara University, Punjab
+College     : Chitkara University, Rajpura
 Focus       : Full Stack Development + AI/ML Exploration
-Languages   : C, C++, Java, JavaScript, SQL
 Interest    : Web Dev, Artificial Intelligence, Machine Learning
-Email       : snehagumber19507@gmail.com
-Goal        : Strong Placement 2027
+Goal        : Strong Placement & Internship 🎯
 Status      : Open to Internships & Collaborations ✅
 ```
 
@@ -93,5 +91,5 @@ Status      : Open to Internships & Collaborations ✅
 
 <!-- Footer wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 </div>
